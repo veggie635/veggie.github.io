@@ -1,0 +1,45 @@
+<svg
+     xmlns="http://www.w3.org/2000/svg"
+     xmlnsXlink="http://www.w3.org/1999/xlink"
+     width="231.656"
+     height="172.312"
+     version="1.1"
+     viewBox="0 0 61.292 45.591"
+   >
+     <defs>
+       <clipPath id="clipPath387" clipPathUnits="userSpaceOnUse">
+         <use x="0" y="0" xlinkHref="#g383"></use>
+       </clipPath>
+     </defs>
+     <g transform="translate(-.238 -1.376)">
+       <g clipPath="url(#clipPath387)" transform="translate(-218.15 -73.593)">
+         <g id="g383">
+           <g transform="translate(150.34 -7.885)">
+             <text
+               x="66.759"
+               y="115.646"
+               fill="#000"
+               strokeWidth="0.265"
+               fontSize="50.8"
+               xmlSpace="preserve"
+             >
+               <tspan
+                 style=''
+                 x="66.759"
+                 y="115.646"
+                 strokeWidth="0.265"
+                 fontFamily="Matura MT Script Capitals"
+                 fontSize="50.8"
+                 fontStretch="normal"
+                 fontStyle="normal"
+                 fontVariant="normal"
+                 fontWeight="normal"
+               >
+                 V
+               </tspan>
+             </text>
+           </g>
+         </g>
+       </g>
+     </g>
+   </svg>
