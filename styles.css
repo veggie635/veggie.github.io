@@ -1,0 +1,51 @@
+body {
+  background-color: #476fa8;
+  color: #fff;
+  text-align: center;
+}
+
+.homepage #header {
+  background-color: #476fa8;
+  position: relative;
+  top: 30vh;
+  height: 30vh;
+  transition: height, top 1.5s;
+  transition-delay: 0.25s;
+}
+.homepage #header h1 {
+  font-size: 9em;
+  display: inline;
+  margin: 0;
+  transition: font-size 1.5s;
+  transition-delay: 0.25s;
+}
+.homepage #header h1:hover {
+  cursor: pointer;
+}
+.homepage #header h2 {
+  display: block;
+  margin: 0;
+  transition: opacity 0.5s;
+}
+.homepage #bio {
+  position: relative;
+  top: 30vh;
+  width: 80vw;
+  max-width: 600px;
+  margin: auto;
+  transition: opacity 0.25s;
+}
+.homepage #content {
+  width: 60vw;
+  min-width: 480px;
+  min-height: 90vh;
+  margin: auto;
+  padding: 20px;
+  border-radius: 5px;
+  color: #476fa8;
+  background-color: #fff;
+  text-align: left;
+  display: none;
+}
+
+/*# sourceMappingURL=styles.css.map */
